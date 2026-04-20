@@ -1,0 +1,40 @@
+FATHIMATHU NASNA SP
+Data Science | ML Engineer | AI Developer
+Kerala, India | LinkedIn | GitHub
+
+SUMMARY
+B.Tech AI & Data Science graduate with 3 internships in data science and ML engineering.
+Experienced in building end-to-end ML pipelines, LLM-powered applications, and computer vision systems.
+
+SKILLS
+Languages: Python, SQL, JavaScript
+ML/DL: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, MediaPipe
+LLMs & AI: Groq LLaMA 3, OpenAI API, Hugging Face Transformers, Prompt Engineering
+Data: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
+Big Data: Hadoop, Spark, Hive, BigQuery
+DevOps: Git, GitHub, Jenkins, Maven, Docker
+Frameworks: Streamlit, Flask, FastAPI
+
+EXPERIENCE
+Data Science Intern | PypSpiders / TestYantra | Jul 2025 - Feb 2026
+- Mastered full DS stack: Python, OOP, NumPy, Pandas, Matplotlib, Seaborn, Statistics, ML, Deep Learning, NLP
+- Deployed 2 end-to-end ML projects using Git, Maven, Jenkins CI/CD pipelines
+- Built classification and regression models achieving 90%+ accuracy on real-world datasets
+
+Data Science Intern | Ladder7 Next Step Solutions | Jun 2025 - Aug 2025
+- Reduced preprocessing time by 40% with reusable Python pipelines using Pandas and Scikit-learn
+- Delivered 2 LLM-powered modules for text summarization and content generation using OpenAI API
+- Improved model F1 score by 8 points through feature selection and hyperparameter tuning with TensorFlow
+
+PROJECTS
+CogniQ - AI-Powered IQ Testing App | Streamlit + Groq LLaMA 3
+- Full-stack AI app with age-adaptive question generation using few-shot prompt engineering
+- Achieved 95%+ question relevance accuracy across 5 age brackets
+
+Driver Drowsiness Detection | Python + OpenCV + MediaPipe
+- Real-time fatigue detection at 25+ FPS using facial landmark analysis
+- Reduced false alarm rate by 30% vs naive approaches
+
+EDUCATION
+B.Tech - Artificial Intelligence & Data Science | CGPA: 7.94
+Vimal Jyothi Engineering College, Kerala | 2021-2025

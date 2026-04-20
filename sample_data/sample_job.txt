@@ -1,0 +1,31 @@
+Job Title: Machine Learning Engineer
+Company: TechCorp AI Solutions
+Location: Bangalore / Remote
+
+About the Role:
+We are looking for a passionate ML Engineer to join our AI team. You will build and deploy
+machine learning models that power our core product features.
+
+Requirements:
+- Strong proficiency in Python and SQL
+- Experience with TensorFlow, PyTorch, or Scikit-learn
+- Knowledge of NLP techniques and transformer models
+- Familiarity with LLMs, prompt engineering, and OpenAI or Groq APIs
+- Experience with data processing using Pandas and NumPy
+- Familiarity with Git, CI/CD pipelines (Jenkins, Docker)
+- Knowledge of REST APIs and model deployment with Flask or FastAPI or Streamlit
+- Understanding of feature engineering, model evaluation, and hyperparameter tuning
+- Bonus: Experience with Hugging Face Transformers, RAG pipelines, or LangChain
+- Bonus: Cloud experience (AWS, GCP, Azure)
+
+Responsibilities:
+- Build and deploy end-to-end ML pipelines
+- Develop NLP and computer vision models
+- Work with LLMs and generative AI tools
+- Collaborate with data engineers and software teams
+- Monitor model performance in production
+
+Preferred Qualifications:
+- B.Tech or M.Tech in Computer Science, AI, Data Science, or related field
+- 1-2 years of internship or work experience
+- Published research or open-source contributions are a plus
