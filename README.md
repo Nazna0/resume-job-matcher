@@ -130,13 +130,6 @@ Match Score = (Keyword Overlap × 40%) + (TF-IDF Cosine Similarity × 60%)
 ## 👩‍💻 Author
 
 **Fathimathu Nasna SP**
-B.Tech AI & Data Science | Vimal Jyothi Engineering College, Kerala
+B.Tech AI & Data Science 
 
 - GitHub: [@Nazna0](https://github.com/Nazna0)
-- LinkedIn: [fathimathu-nasna-s-p](https://linkedin.com/in/fathimathu-nasna-s-p-5b5b2426a)
-
----
-
-## 📄 License
-
-MIT License — free to use and modify.
