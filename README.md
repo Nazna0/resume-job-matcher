@@ -12,7 +12,7 @@ Built as part of the **PypSpiders / TestYantra Data Science Internship**.
 
 ---
 
-## 📸 Features
+##  Features
 
 | Feature | Description |
 |---|---|
