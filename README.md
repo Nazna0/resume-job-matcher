@@ -1,4 +1,4 @@
-# 🎯 AI Resume–Job Match Scorer
+#  AI Resume–Job Match Scorer
 
 > **An NLP + LLM-powered web app that scores how well your resume matches a job description, identifies skill gaps, and gives personalised AI improvement tips.**
 
@@ -6,7 +6,7 @@ Built as part of the **PypSpiders / TestYantra Data Science Internship**.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 > Run locally with: `streamlit run app.py`
 
@@ -16,16 +16,16 @@ Built as part of the **PypSpiders / TestYantra Data Science Internship**.
 
 | Feature | Description |
 |---|---|
-| 🎯 Match Score | Composite score using TF-IDF cosine similarity + keyword overlap |
-| ✅ Matched Skills | Keywords from the JD that your resume already covers |
-| ❌ Missing Skills | Skills you need to add to pass ATS filters |
-| 📊 Visual Analysis | Gauge chart + skill gap bar chart (Plotly) |
-| 🤖 AI Feedback | Personalised tips from Groq LLaMA 3 |
-| 📥 Download Report | Export your results as a .txt file |
+|  Match Score | Composite score using TF-IDF cosine similarity + keyword overlap |
+|  Matched Skills | Keywords from the JD that your resume already covers |
+|  Missing Skills | Skills you need to add to pass ATS filters |
+|  Visual Analysis | Gauge chart + skill gap bar chart (Plotly) |
+|  AI Feedback | Personalised tips from Groq LLaMA 3 |
+|  Download Report | Export your results as a .txt file |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** Streamlit
 - **NLP / ML:** Scikit-learn (TF-IDF, Cosine Similarity), Custom keyword extractor
@@ -35,7 +35,7 @@ Built as part of the **PypSpiders / TestYantra Data Science Internship**.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 resume_job_matcher/
@@ -59,7 +59,7 @@ resume_job_matcher/
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -99,7 +99,7 @@ Then open `http://localhost:8501` in your browser.
 
 ---
 
-## 🔑 API Key Setup (Groq — Free)
+##  API Key Setup (Groq — Free)
 
 1. Go to [https://console.groq.com](https://console.groq.com)
 2. Sign up for free
@@ -113,7 +113,7 @@ Then open `http://localhost:8501` in your browser.
 
 ---
 
-## 📊 How the Score is Calculated
+##  How the Score is Calculated
 
 ```
 Match Score = (Keyword Overlap × 40%) + (TF-IDF Cosine Similarity × 60%)
@@ -121,15 +121,14 @@ Match Score = (Keyword Overlap × 40%) + (TF-IDF Cosine Similarity × 60%)
 
 | Score Range | Verdict |
 |---|---|
-| 75% – 100% | 🟢 Strong Match |
-| 50% – 74% | 🟡 Moderate Match |
-| 0% – 49% | 🔴 Weak Match |
+| 75% – 100% |  Strong Match |
+| 50% – 74% |  Moderate Match |
+| 0% – 49% |  Weak Match |
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Fathimathu Nasna SP**
-B.Tech AI & Data Science 
 
 - GitHub: [@Nazna0](https://github.com/Nazna0)
